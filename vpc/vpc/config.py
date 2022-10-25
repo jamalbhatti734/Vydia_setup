@@ -1,7 +1,7 @@
 from aws_cdk.aws_ec2 import RouterType, CfnSecurityGroup
 
 # basic VPC configs
-VPC = 'custom-vpc'
+VPC = 'jamal-vpc'
 
 INTERNET_GATEWAY = 'internet-gateway'
 
